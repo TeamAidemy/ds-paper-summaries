@@ -8,6 +8,6 @@
 - 分野を広く捉えることによる視野の拡大
 
 等をモチベーションに、2022年より論文サマリーの作成を開始しました。  
-[arXivTimes](https://github.com/arXivTimes/arXivTimes) 様に大きくインスパイアされ、GitHub issueによる管理スタイルを踏襲しております。
+[arXivTimes](https://github.com/arXivTimes/arXivTimes) 様に大きくインスパイアされ、GitHub Issuesによる管理スタイルを踏襲しております。
 
 更新は隔週目安で行います。自分たちがそのとき読みたい/読むべき論文を選びまとめているため、リクエスト等は受け付けておりませんのでご了承ください。
